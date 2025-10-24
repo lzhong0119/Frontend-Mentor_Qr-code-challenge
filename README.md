@@ -13,7 +13,7 @@ My version
 ### Links
 
 - Solution URL: https://github.com/lzhong0119/Frontend-Mentor_Qr-code-challenge
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://lzhong0119.github.io/Frontend-Mentor_Qr-code-challenge/
 
 ### Built with
 
