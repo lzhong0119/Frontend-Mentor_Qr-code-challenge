@@ -4,10 +4,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-This challenge is to reproduce the ![](./preview.jpg)
+This challenge is to reproduce this UI ![](./preview.jpg)
 
 ### Screenshot
-
+My version
 ![](./images/screenshot.PNG)
 
 ### Links
@@ -21,4 +21,3 @@ This challenge is to reproduce the ![](./preview.jpg)
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-
