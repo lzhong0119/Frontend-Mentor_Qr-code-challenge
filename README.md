@@ -4,16 +4,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-This challenge is to reproduce the ![](./preview.jpg)
+This challenge is to reproduce this UI ![](./preview.jpg)
 
 ### Screenshot
-
+My version
 ![](./images/screenshot.PNG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/lzhong0119/Frontend-Mentor_Qr-code-challenge
+- Live Site URL: https://lzhong0119.github.io/Frontend-Mentor_Qr-code-challenge/
 
 ### Built with
 
@@ -21,4 +21,3 @@ This challenge is to reproduce the ![](./preview.jpg)
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-
